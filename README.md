@@ -145,13 +145,15 @@ const david = {
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
 ### 🎨 Frameworks & Libraries
 
 <div align="center">
   
-![Skills](https://skillicons.dev/icons?i=dotnet,react,nextjs,angular,vue,nodejs,express,laravel,bootstrap,tailwind,flutter&perline=11)
+![Skills](https://skillicons.dev/icons?i=dotnet,react,nextjs,angular,vue,nodejs,express,laravel,bootstrap,tailwind,flutter,jquery&perline=12)
 
 </div>
 
@@ -224,7 +226,7 @@ const david = {
 
 <div align="center">
   
-![Skills](https://skillicons.dev/icons?i=selenium&perline=3)
+![Skills](https://skillicons.dev/icons?i=selenium&perline=1)
 
 </div>
 
@@ -291,62 +293,7 @@ Complete cruise booking platform with payment processing and multi-language supp
 </tr>
 
 <tr>
-<td width="50%">
-
-### 🏋️ LAFIT
-**Fitness Courses Platform**
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
-Web platform for fitness courses with e-commerce, invoicing, and content management.
-
-**Key Features:**
-- ✅ Complete e-commerce system
-- ✅ PDF invoice generation
-- ✅ Integrated chatbot
-- ✅ Responsive design
-
-<a href="https://github.com/DavidSnake3/LatinAmericanFitnessInstitute">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-</a>
-
-</td>
-<td width="50%">
-
-### 🎓 TechAcademy
-**Training & Certification System**
-
-<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/> <img src="https://img.shields.io/badge/Power_Platform-742774?style=flat-square&logo=powerapps&logoColor=white"/>
-
-Internal training system with dynamic courses, exams, and automated certification.
-
-**Key Features:**
-- ✅ Dynamic course creation
-- ✅ Automated certificates
-- ✅ Power Platform integration
-- ✅ Progress tracking
-
-<a href="https://github.com/DavidSnake3/TechsopAcademy">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-  
-  ## 💼 Professional Experience
-  
-</div>
-
-<table>
-<tr>
-<td width="30%" align="center">
+<td width="50%" align="center">
   <img src="https://img.shields.io/badge/TechShop-App_Developer-3B82F6?style=for-the-badge" alt="TechShop"/>
   <br><br>
   <b>June 2024 - Present</b>
@@ -364,7 +311,7 @@ Internal training system with dynamic courses, exams, and automated certificatio
 </td>
 </tr>
 <tr>
-<td width="30%" align="center">
+<td width="50%" align="center">
   <img src="https://img.shields.io/badge/BN_Vital-Administrative_Assistant-3B82F6?style=for-the-badge" alt="BN Vital"/>
   <br><br>
   <b>Oct 2022 - Dec 2022</b>
@@ -380,6 +327,8 @@ Internal training system with dynamic courses, exams, and automated certificatio
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
