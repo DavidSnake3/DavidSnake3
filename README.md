@@ -1,6 +1,6 @@
 <div align="center">
   
-  <!-- Animated Header with Gradient -->
+  <!-- Animated Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=David%20Josué%20Villegas&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Software%20Engineer%20|%20Full-Stack%20Developer%20|%20Automation%20Specialist&descAlignY=55&descSize=18" width="100%"/>
   
 </div>
@@ -36,63 +36,32 @@
   
 </div>
 
-<!-- Redesigned About Me section with modern card layout and better visual hierarchy -->
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-### 👨‍💻 Professional Profile
+\`\`\`yaml
+name: David Josué Villegas Salas
+located_in: Alajuela, Costa Rica 🇨🇷
+current_role: App Developer at TechShop
+education: Software Engineering Student
+experience: 3+ years in Full-Stack Development
 
-\`\`\`typescript
-const david = {
-  name: "David Josué Villegas Salas",
-  location: "Alajuela, Costa Rica 🇨🇷",
-  role: "App Developer @ TechShop",
-  education: "Software Engineering Student",
-  experience: "3+ years",
+fields_of_interests:
+  - Process Automation
+  - Low-Code Solutions
+  - Full-Stack Development
+  - Cloud Technologies
+  - Data Analytics
+
+achievements:
+  - "40% productivity increase through automation"
+  - "30% faster product delivery with Power Apps"
+  - "Automated financial reporting systems"
   
-  specialties: [
-    "Full-Stack Development",
-    "Process Automation",
-    "Low-Code Solutions",
-    "Cloud Technologies",
-    "Data Analytics"
-  ],
-  
-  currentlyLearning: [
-    "Advanced Cloud Architecture",
-    "AI Integration",
-    "DevOps Practices"
-  ]
-};
+currently_learning: ["Advanced Cloud Architecture", "AI Integration", "DevOps"]
+hobbies: ["Coding", "Tech Innovation", "Problem Solving"]
 \`\`\`
 
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Key Achievements
-
-<br>
-
-📈 **40%** productivity increase through automation
-
-⚡ **30%** faster product delivery with Power Apps
-
-💰 Automated financial reporting systems
-
-🔄 Optimized legacy code and workflows
-
-📊 Implemented real-time data analytics
-
-🚀 Built scalable full-stack applications
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidSnake3&theme=react-dark&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&area_color=3B82F6" width="95%" alt="Contribution Graph"/>
-</div>
+<br clear="right"/>
 
 ---
 
@@ -108,7 +77,8 @@ const david = {
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSnake3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=10&card_width=600" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSnake3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=DavidSnake3&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Contribution Graph"/>
 </div>
 
 <div align="center">
@@ -119,70 +89,47 @@ const david = {
 
 <div align="center">
   
-  ## 🛠️ Technical Skills
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  ## 🛠️ Tech Stack & Skills
   
 </div>
-
-<!-- Using skillicons.dev for modern, visual technology icons -->
 
 ### 💻 Programming Languages
 
-<div align="center">
-  
-![Skills](https://skillicons.dev/icons?i=cs,java,js,ts,python,php,cpp,c,html,css&perline=10)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,java,js,ts,python,php,cpp&theme=dark" alt="Programming Languages"/>
+</p>
 
-</div>
+### 🎨 Frontend Development
 
-### 🎨 Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,html,css,tailwind,bootstrap&theme=dark" alt="Frontend Technologies"/>
+</p>
 
-<div align="center">
-  
-![Skills](https://skillicons.dev/icons?i=dotnet,react,nextjs,angular,vue,nodejs,express,laravel,bootstrap,tailwind,flutter,jquery&perline=12)
+### ⚙️ Backend & Frameworks
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,laravel,nestjs&theme=dark" alt="Backend Technologies"/>
+</p>
 
 ### 🔷 Microsoft Power Platform
 
-<div align="center">
-  
-<img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps"/>
-<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="SharePoint"/>
-<img src="https://img.shields.io/badge/Dataverse-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Dataverse"/>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps"/>
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=sharepoint&logoColor=white" alt="SharePoint"/>
+</p>
 
 ### 🗄️ Databases & Cloud
 
-<div align="center">
-  
-![Skills](https://skillicons.dev/icons?i=mysql,sqlite,firebase,azure,gcp&perline=5)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase,azure,gcp&theme=dark" alt="Databases & Cloud"/>
+</p>
 
-</div>
-
-### 🔧 Tools & Development Environments
-
-<div align="center">
-  
-![Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode,visualstudio,postman&perline=7)
-
-</div>
-
-### 🧪 Testing & Methodologies
-
-<div align="center">
-  
-![Skills](https://skillicons.dev/icons?i=selenium&perline=1)
-
-</div>
+### 🔧 Tools & DevOps
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/>
-  <img src="https://img.shields.io/badge/Scrum-009FDA?style=flat-square&logo=scrumalliance&logoColor=white" alt="Scrum"/>
-  <img src="https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Agile"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio&theme=dark" alt="Tools"/>
 </p>
 
 ---
@@ -190,8 +137,6 @@ const david = {
 <div align="center">
   
   ## 💼 Featured Projects
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700">
   
 </div>
 
@@ -242,42 +187,79 @@ Complete cruise booking platform with payment processing and multi-language supp
 </tr>
 
 <tr>
-<td width="50%" align="center">
-  <img src="https://img.shields.io/badge/TechShop-App_Developer-3B82F6?style=for-the-badge" alt="TechShop"/>
-  <br><br>
-  <b>June 2024 - Present</b>
+<td width="50%">
+
+### 🏋️ LAFIT
+**Fitness Courses Platform**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+Web platform for fitness courses with e-commerce, invoicing, and content management.
+
+**Key Features:**
+- ✅ Complete e-commerce system
+- ✅ PDF invoice generation
+- ✅ Integrated chatbot
+- ✅ Responsive design
+
+<a href="https://github.com/DavidSnake3/LatinAmericanFitnessInstitute">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+</a>
+
 </td>
-<td width="70%">
-  
-🚀 Developed Power Apps modules accelerating product delivery by **30%**
+<td width="50%">
 
-⚡ Implemented automated flows with Power Automate for bonus payment processing
+### 🎓 TechAcademy
+**Training & Certification System**
 
-📄 Automated PDF voucher generation and financial reports
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/> <img src="https://img.shields.io/badge/Power_Platform-742774?style=flat-square&logo=powerapps&logoColor=white"/>
 
-🔧 Refactored and optimized legacy code in Power Apps
+Internal training system with dynamic courses, exams, and automated certification.
 
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-  <img src="https://img.shields.io/badge/BN_Vital-Administrative_Assistant-3B82F6?style=for-the-badge" alt="BN Vital"/>
-  <br><br>
-  <b>Oct 2022 - Dec 2022</b>
-</td>
-<td width="70%">
-  
-📁 Digitized and managed legal documentation
+**Key Features:**
+- ✅ Dynamic course creation
+- ✅ Automated certificates
+- ✅ Power Platform integration
+- ✅ Progress tracking
 
-📊 Created Excel database for tracking user requests
-
-💼 Executed administrative tasks using Microsoft Office suite
+<a href="https://github.com/DavidSnake3/TechsopAcademy">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+</a>
 
 </td>
 </tr>
 </table>
 
 </div>
+
+---
+
+<div align="center">
+  
+  ## 💼 Professional Experience
+  
+</div>
+
+<details open>
+<summary><b>🏢 App Developer at TechShop</b> <i>(June 2024 - Present)</i></summary>
+<br>
+
+- 🚀 Developed Power Apps modules accelerating product delivery by **30%**
+- ⚡ Implemented automated flows with Power Automate for bonus payment processing
+- 📄 Automated PDF voucher generation and financial reports
+- 🔧 Refactored and optimized legacy code in Power Apps
+
+</details>
+
+<details>
+<summary><b>📋 Administrative Assistant Intern at BN Vital</b> <i>(October 2022 - December 2022)</i></summary>
+<br>
+
+- 📁 Digitized and managed legal documentation
+- 📊 Created Excel database for tracking user requests
+- 💼 Executed administrative tasks using Microsoft Office suite
+
+</details>
 
 ---
 
@@ -302,7 +284,7 @@ timeline
 
 <div align="center">
 
-| 🎖️ Certification | 🏢 Issuer | 📅 Date |
+| Certification | Issuer | Date |
 |:---|:---:|---:|
 | 🔍 Process Mining Celonis Foundations | Celonis | July 2024 |
 | 📊 Data Analytics Essentials | Cisco | July 2024 |
@@ -322,8 +304,8 @@ timeline
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🇪🇸_Spanish-Native-3B82F6?style=for-the-badge" alt="Spanish"/>
-  <img src="https://img.shields.io/badge/🇺🇸_English-B2_(Upper_Intermediate)-3B82F6?style=for-the-badge" alt="English"/>
+  <img src="https://img.shields.io/badge/Spanish-Native-3B82F6?style=for-the-badge&logo=google-translate&logoColor=white" alt="Spanish"/>
+  <img src="https://img.shields.io/badge/English-B2_(Upper_Intermediate)-3B82F6?style=for-the-badge&logo=google-translate&logoColor=white" alt="English"/>
 </p>
 
 ---
@@ -332,13 +314,7 @@ timeline
   
   ## 📫 Let's Connect!
   
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-  
-  <br>
-  
-  **I'm always open to discussing new opportunities, collaborations, or just chatting about technology!**
-  
-  <br>
+  <p>💡 I'm always open to discussing new opportunities, collaborations, or just chatting about technology!</p>
   
   <a href="https://www.linkedin.com/in/davidsnake-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
