@@ -32,38 +32,37 @@
 
 <div align="center">
   
-  ## 🌟 About Me
+ ## 🌟 About Me
   
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-\`\`\`yaml
-name: David Josué Villegas Salas
-located_in: Alajuela, Costa Rica 🇨🇷
-current_role: App Developer at TechShop
-education: Software Engineering Student
-experience: 3+ years in Full-Stack Development
+**👨‍💻 Name:** David Josué Villegas Salas  
+**📍 Location:** Alajuela, Costa Rica 🇨🇷  
+**💼 Current Role:** App Developer at TechShop  
+**🎓 Education:** Software Engineering Student  
+**⏳ Experience:** 3+ years in Full-Stack Development
 
-fields_of_interests:
-  - Process Automation
-  - Low-Code Solutions
-  - Full-Stack Development
-  - Cloud Technologies
-  - Data Analytics
-  - Mobile Development
+**🎯 Fields of Interest:**
+- Process Automation
+- Low-Code Solutions
+- Full-Stack Development
+- Cloud Technologies
+- Data Analytics
+- Mobile Development
 
-achievements:
-  - "40% productivity increase through automation"
-  - "30% faster product delivery with Power Apps"
-  - "Automated financial reporting systems"
-  - "Enterprise-level solutions deployment"
-  
-currently_learning: ["Advanced Cloud Architecture", "AI Integration", "DevOps", "Mobile Development"]
-hobbies: ["Coding", "Tech Innovation", "Problem Solving", "Continuous Learning"]
-\`\`\`
+**🏆 Key Achievements:**
+- 40% productivity increase through automation
+- 30% faster product delivery with Power Apps
+- Automated financial reporting systems
+- Enterprise-level solutions deployment
+
+**📚 Currently Learning:** Advanced Cloud Architecture, AI Integration, DevOps, Mobile Development  
+**🎮 Hobbies:** Coding, Tech Innovation, Problem Solving, Continuous Learning
 
 <br clear="right"/>
+
 
 ---
 
