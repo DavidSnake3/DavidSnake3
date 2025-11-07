@@ -32,36 +32,40 @@
 
 <div align="center">
   
- ## 🌟 About Me
+## 🌟 About Me
   
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<div align="center">
+  
+  <p style="font-size: 18px; max-width: 800px; margin: 0 auto; line-height: 1.8; color: #C9D1D9;">
+    Hello, I'm David, a software developer with over three years of experience focused on projecting my moral and ethical values in every project to provide high-quality tools and meet your business expectations.
+  </p>
+  
+  <br/>
+  
+  <!-- Action Buttons -->
+  <div style="display: flex; gap: 40px; justify-content: center; align-items: center; margin-top: 30px;">
+    
+    <a href="https://davidsnake3.github.io/Portfolio/" target="_blank" style="text-decoration: none;">
+      <div style="text-align: center;">
+        <img src="https://img.icons8.com/fluency/96/000000/portfolio.png" alt="Portfolio" width="80" height="80"/>
+        <p style="margin-top: 10px; font-size: 16px; font-weight: 600; color: #3B82F6;">View Portfolio</p>
+      </div>
+    </a>
+    
+    <a href="#" download style="text-decoration: none;">
+      <div style="text-align: center;">
+        <img src="https://img.icons8.com/fluency/96/000000/download.png" alt="Download CV" width="80" height="80"/>
+        <p style="margin-top: 10px; font-size: 16px; font-weight: 600; color: #3B82F6;">Download CV</p>
+      </div>
+    </a>
+    
+  </div>
+  
+</div>
 
-**👨‍💻 Name:** David Josué Villegas Salas  
-**📍 Location:** Alajuela, Costa Rica 🇨🇷  
-**💼 Current Role:** App Developer at TechShop  
-**🎓 Education:** Software Engineering Student  
-**⏳ Experience:** 3+ years in Full-Stack Development
-
-**🎯 Fields of Interest:**
-- Process Automation
-- Low-Code Solutions
-- Full-Stack Development
-- Cloud Technologies
-- Data Analytics
-- Mobile Development
-
-**🏆 Key Achievements:**
-- 40% productivity increase through automation
-- 30% faster product delivery with Power Apps
-- Automated financial reporting systems
-- Enterprise-level solutions deployment
-
-**📚 Currently Learning:** Advanced Cloud Architecture, AI Integration, DevOps, Mobile Development  
-**🎮 Hobbies:** Coding, Tech Innovation, Problem Solving, Continuous Learning
-
-<br clear="right"/>
+<br/>
 
 
 ---
