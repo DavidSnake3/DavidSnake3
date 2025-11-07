@@ -32,36 +32,39 @@
 
 <div align="center">
   
-## 🌟 About Me
+  ## 🌟 About Me
   
 </div>
 
 <div align="center">
   
-  <p style="font-size: 18px; max-width: 800px; margin: 0 auto; line-height: 1.8; color: #C9D1D9;">
-    Hello, I'm David, a software developer with over three years of experience focused on projecting my moral and ethical values in every project to provide high-quality tools and meet your business expectations.
+  <p align="center" style="font-size: 18px;">
+    <em>Hello, I'm David, a software developer with over three years of experience focused on projecting my moral and ethical values in every project to provide high-quality tools and meet your business expectations.</em>
   </p>
   
   <br/>
+  <br/>
   
-  <!-- Action Buttons -->
-  <div style="display: flex; gap: 40px; justify-content: center; align-items: center; margin-top: 30px;">
-    
-    <a href="https://davidsnake3.github.io/Portfolio/" target="_blank" style="text-decoration: none;">
-      <div style="text-align: center;">
-        <img src="https://img.icons8.com/fluency/96/000000/portfolio.png" alt="Portfolio" width="80" height="80"/>
-        <p style="margin-top: 10px; font-size: 16px; font-weight: 600; color: #3B82F6;">View Portfolio</p>
-      </div>
-    </a>
-    
-    <a href="#" download style="text-decoration: none;">
-      <div style="text-align: center;">
-        <img src="https://img.icons8.com/fluency/96/000000/download.png" alt="Download CV" width="80" height="80"/>
-        <p style="margin-top: 10px; font-size: 16px; font-weight: 600; color: #3B82F6;">Download CV</p>
-      </div>
-    </a>
-    
-  </div>
+  <!-- Action Buttons with Icons -->
+  <table align="center">
+    <tr>
+      <td align="center" width="200">
+        <a href="https://davidsnake3.github.io/Portfolio/" target="_blank">
+          <img src="https://img.icons8.com/fluency/96/portfolio.png" alt="Portfolio" width="96" height="96"/>
+          <br/>
+          <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-3B82F6?style=for-the-badge&logoColor=white" alt="View Portfolio"/>
+        </a>
+      </td>
+      <td width="100"></td>
+      <td align="center" width="200">
+        <a href="#" download>
+          <img src="https://img.icons8.com/fluency/96/download.png" alt="Download CV" width="96" height="96"/>
+          <br/>
+          <img src="https://img.shields.io/badge/DOWNLOAD_CV-10B981?style=for-the-badge&logoColor=white" alt="Download CV"/>
+        </a>
+      </td>
+    </tr>
+  </table>
   
 </div>
 
