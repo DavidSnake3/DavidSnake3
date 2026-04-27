@@ -49,13 +49,13 @@
 <img src="assets/hxh-logo.jpg" alt="HxH Logo" width="240"/>
 <img src="assets/hxh-barcode.jpg" alt="Barcode" width="240"/>
 
-<table align="center" width="240">
-<tr><td align="center"><b>David J. Villegas S.</b></td></tr>
-<tr><td align="center"><sub>Region: Costa Rica</sub></td></tr>
-<tr><td align="center"><sub>Class: Full-Stack Engineer</sub></td></tr>
-<tr><td align="center"><sub>Experience: 3+ Years</sub></td></tr>
-<tr><td align="center"><sub>Status: ACTIVE</sub></td></tr>
-<tr><td align="center"><sub>Trait: Ambitious - Proactive</sub></td></tr>
+<table align="center" width="240" cellpadding="6" cellspacing="2" border="1">
+<tr><td align="center" width="240"><b>David J. Villegas S.</b></td></tr>
+<tr><td align="center" width="240">Region: Costa Rica</td></tr>
+<tr><td align="center" width="240">Class: Full-Stack Engineer</td></tr>
+<tr><td align="center" width="240">Experience: 3+ Years</td></tr>
+<tr><td align="center" width="240">Status: ACTIVE</td></tr>
+<tr><td align="center" width="240">Trait: Ambitious - Proactive</td></tr>
 </table>
 
 </td>
