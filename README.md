@@ -99,7 +99,9 @@ Throughout my academic and professional career, I have developed numerous projec
 
 #### ▸ Languages
 
-[![Languages](https://skillicons.dev/icons?i=cs,java,js,ts,py,php,c,cpp,mysql,html,css&perline=11)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=cs,java,js,ts,py,php,c,cpp,html,css&perline=10)](https://skillicons.dev)
+
+<img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4479A1" alt="SQL"/>
 
 #### ▸ Frameworks & Libraries
 
@@ -125,8 +127,9 @@ Throughout my academic and professional career, I have developed numerous projec
 
 #### ▸ Data & Analytics
 
-[![Data](https://skillicons.dev/icons?i=mysql,sqlite,firebase&perline=3)](https://skillicons.dev)
+[![Data](https://skillicons.dev/icons?i=sqlite,firebase&perline=2)](https://skillicons.dev)
 
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1" alt="MySQL"/>
 <img src="https://img.shields.io/badge/-Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white&labelColor=FF3621" alt="Databricks"/>
 <img src="https://img.shields.io/badge/-Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0078D4" alt="Azure Data Factory"/>
 <img src="https://img.shields.io/badge/-Data%20Analyst-4ADE80?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=4ADE80" alt="Data Analyst"/>
