@@ -17,17 +17,20 @@
 
 <br/>
 
-<!-- ────── CONTACT BUTTONS ────── -->
+<!-- ────── CONTACT BUTTONS — Neon Cyberpunk ────── -->
 <div align="center">
 
 <a href="https://davidsnake3.github.io/Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=07071a&labelColor=00E5FF" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/-PORTFOLIO-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=07071a&labelColor=00E5FF" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/davidsnake-dev" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
 </a>
 <a href="mailto:davidjosuevillegassalas@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
+</a>
+<a href="https://github.com/DavidSnake3" target="_blank">
+  <img src="https://img.shields.io/badge/-GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=7C3AED" alt="GitHub"/>
 </a>
 
 </div>
@@ -92,63 +95,50 @@ Throughout my academic and professional career, I have developed numerous projec
 
 ## NEN ABILITIES — TECH STACK
 
+<div align="center">
+
 #### ▸ Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%20%2F%20C%2B%2B-A8B9CC?style=flat-square&logo=cplusplus&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-F16529?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-264DE4?style=flat-square&logo=css3&logoColor=white)
+
+[![Languages](https://skillicons.dev/icons?i=cs,java,js,ts,py,php,c,cpp,mysql,html,css&perline=11)](https://skillicons.dev)
 
 #### ▸ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404040?style=flat-square&logo=express&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-FFFFFF?style=flat-square&logo=nextdotjs&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+
+[![Frameworks](https://skillicons.dev/icons?i=react,angular,vue,nodejs,express,dotnet,laravel,nextjs,flutter,bootstrap,tailwind,jquery&perline=12)](https://skillicons.dev)
+
+<img src="https://img.shields.io/badge/-React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A" alt="React Native"/>
+<img src="https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=512BD4" alt="ASP.NET Core"/>
+<img src="https://img.shields.io/badge/-Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=512BD4" alt="Entity Framework"/>
 
 #### ▸ Microsoft Power Platform
-![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=flat-square&logo=powerapps&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
-![Dataverse](https://img.shields.io/badge/Dataverse-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
+<img src="https://img.shields.io/badge/-Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white&labelColor=742774" alt="Power Apps"/>
+<img src="https://img.shields.io/badge/-Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white&labelColor=0066FF" alt="Power Automate"/>
+<img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=F2C811" alt="Power BI"/>
+<img src="https://img.shields.io/badge/-SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white&labelColor=0078D4" alt="SharePoint"/>
+<img src="https://img.shields.io/badge/-Dataverse-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0078D4" alt="Dataverse"/>
 
 #### ▸ Cloud & DevOps
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git / GitHub](https://img.shields.io/badge/Git%20%2F%20GitHub-F05032?style=flat-square&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+[![Cloud](https://skillicons.dev/icons?i=azure,gcp,docker,git,github,gitlab,postman&perline=7)](https://skillicons.dev)
+
+<img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white&labelColor=0078D7" alt="Azure DevOps"/>
 
 #### ▸ Data & Analytics
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Data Analyst](https://img.shields.io/badge/Data%20Analyst-4ADE80?style=flat-square&logo=googleanalytics&logoColor=white)
+
+[![Data](https://skillicons.dev/icons?i=mysql,sqlite,firebase&perline=3)](https://skillicons.dev)
+
+<img src="https://img.shields.io/badge/-Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white&labelColor=FF3621" alt="Databricks"/>
+<img src="https://img.shields.io/badge/-Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0078D4" alt="Azure Data Factory"/>
+<img src="https://img.shields.io/badge/-Data%20Analyst-4ADE80?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=4ADE80" alt="Data Analyst"/>
 
 #### ▸ Testing & Methodologies
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-00E5FF?style=flat-square&logo=scrumalliance&logoColor=black)
-![Agile](https://img.shields.io/badge/Agile-7C3AED?style=flat-square&logo=agile&logoColor=white)
+
+[![Testing](https://skillicons.dev/icons?i=selenium&perline=1)](https://skillicons.dev)
+
+<img src="https://img.shields.io/badge/-Scrum-00E5FF?style=for-the-badge&logo=scrumalliance&logoColor=07071a&labelColor=00E5FF" alt="Scrum"/>
+<img src="https://img.shields.io/badge/-Agile-7C3AED?style=for-the-badge&logo=agile&logoColor=white&labelColor=7C3AED" alt="Agile"/>
+
+</div>
 
 ---
 
