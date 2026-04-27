@@ -39,7 +39,7 @@
 
 ---
 
-## ⚡ HUNTER LICENSE
+## HUNTER LICENSE
 
 <table>
 <tr>
@@ -51,7 +51,7 @@
 </td>
 <td valign="top">
 
-#### ⚡ David Josue Villegas Salas — SNAKE
+#### David Josue Villegas Salas — SNAKE
 
 Hello, I'm David, a Full-Stack Engineer with over **three years** experience focused on projecting my moral and ethical values in every project **to provide high-quality tools and meet your business expectations.**
 
@@ -64,7 +64,6 @@ Throughout my academic and professional career, I have developed numerous projec
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/Gon.gif" alt="Gon" height="130"/>
   <br/>
-  <sub><b>KILLUA</b>&nbsp;&nbsp;&nbsp;×&nbsp;&nbsp;&nbsp;<b>GON</b></sub>
 </div>
 
 </td>
@@ -73,7 +72,7 @@ Throughout my academic and professional career, I have developed numerous projec
 
 ---
 
-## 📊 HUNTER STATS
+## HUNTER STATS
 
 <div align="center">
 
@@ -94,7 +93,7 @@ Throughout my academic and professional career, I have developed numerous projec
 
 ---
 
-## 🔥 NEN ABILITIES — TECH STACK
+## NEN ABILITIES — TECH STACK
 
 #### ▸ Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
@@ -158,6 +157,6 @@ Throughout my academic and professional career, I have developed numerous projec
 
 <div align="center">
 
-<sub>▸ Hunter × Hunter  ·  <b>DavidSnake3</b>  ·  Costa Rica 🇨🇷</sub>
+<sub>▸ <b>DavidSnake3</b>  ·  Costa Rica 🇨🇷</sub>
 
 </div>
