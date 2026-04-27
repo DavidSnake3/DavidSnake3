@@ -1,378 +1,200 @@
+<!-- ════════════════════════════════════════════════════════════════
+     DavidSnake3 — GitHub Profile README
+     Hunter × Hunter themed · Pixel/Retro aesthetic
+     ════════════════════════════════════════════════════════════════ -->
+
+<!-- ────── BANNER + NAME ────── -->
 <div align="center">
-  
-  <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=David%20Josué%20Villegas&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Software%20Engineer%20|%20Full-Stack%20Developer%20|%20Automation%20Specialist&descAlignY=55&descSize=18" width="100%"/>
-  
-</div>
 
-<div align="center">
-  
-  <!-- Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;Process+Automation+Expert+%E2%9A%A1;Power+Platform+Specialist+%F0%9F%92%BC;Building+Innovative+Solutions+%F0%9F%92%A1" alt="Typing SVG" />
-  </a>
-  
-</div>
+<img src="assets/HXH%20BANNER.jpg" alt="DavidSnake3 Banner" width="100%"/>
 
-<!-- Social Badges with Animation -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/davidsnake-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:davidjosuevillegassalas@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
-  </a>
-  <a href="https://github.com/DavidSnake3">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=DavidSnake3&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views" />
-</p>
+# David J. Villegas S.
 
----
+**Full-Stack Engineer**  ·  Costa Rica 🇨🇷  ·  3+ Years Experience
 
-<div align="center">
-  
-  ## 🌟 About Me
-  
-</div>
+<br/>
 
-<div align="center">
-  
-  <p align="center" style="font-size: 18px;">
-    <em>Hello, I'm David, a software developer with over three years of experience focused on projecting my moral and ethical values in every project to provide high-quality tools and meet your business expectations.</em>
-  </p>
-  
-  <br/>
-  <br/>
-  
-  <!-- Action Buttons with Icons -->
-  <table align="center">
-    <tr>
-      <td align="center" width="200">
-        <a href="https://davidsnake3.github.io/Portfolio/" target="_blank">
-          <img src="https://img.icons8.com/fluency/96/portfolio.png" alt="Portfolio" width="96" height="96"/>
-          <br/>
-          <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-3B82F6?style=for-the-badge&logoColor=white" alt="View Portfolio"/>
-        </a>
-      </td>
-      <td width="100"></td>
-      <td align="center" width="200">
-        <a href="#" download>
-          <img src="https://img.icons8.com/fluency/96/download.png" alt="Download CV" width="96" height="96"/>
-          <br/>
-          <img src="https://img.shields.io/badge/DOWNLOAD_CV-10B981?style=for-the-badge&logoColor=white" alt="Download CV"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-  
+<!-- ────── CONTACT BUTTONS (shields.io) ────── -->
+<a href="https://davidsnake3.github.io/Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=07071a&labelColor=00E5FF" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/davidsnake-dev" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:Desarrollo02@tsicr.com">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/DavidSnake3" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
 </div>
 
 <br/>
 
-
 ---
 
-<div align="center">
-  
-  ## 📊 GitHub Analytics
-  
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DavidSnake3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DavidSnake3&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSnake3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=DavidSnake3&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Contribution Graph"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DavidSnake3&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
----
-
-<div align="center">
-  
-  ## 🛠️ Tech Stack & Skills
-  
-</div>
-
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,java,js,ts,python,php,cpp,c&theme=dark" alt="Programming Languages"/>
-</p>
-
-### 🎨 Frontend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,vue,nextjs,html,css,tailwind,bootstrap,jquery&theme=dark" alt="Frontend Technologies"/>
-</p>
-
-### ⚙️ Backend & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,laravel,nestjs&theme=dark" alt="Backend Technologies"/>
-</p>
-
-### 📱 Mobile Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react&theme=dark" alt="Mobile Technologies"/>
-</p>
-
-### 🗄️ Databases & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite,firebase,azure,gcp&theme=dark" alt="Databases & Cloud"/>
-</p>
-
-### 🔧 Tools & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,vscode,visualstudio,selenium&theme=dark" alt="Tools"/>
-</p>
-
-### 🔷 Microsoft Power Platform
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps"/>
-  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="SharePoint"/>
-  <img src="https://img.shields.io/badge/Dataverse-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Dataverse"/>
-</p>
-
----
-
-<div align="center">
-  
-  ## 💼 Featured Projects
-  
-</div>
-
-<div align="center">
+## ⚡ HUNTER LICENSE
 
 <table>
 <tr>
-<td width="50%">
+<td width="260" valign="top" align="center">
 
-### 🐻 BearFix
-**Incident Tracking System**
+<!-- ░░ HXH CARD (logo + barcode + info) ░░ -->
+<img src="assets/hxh-logo.jpg" alt="HxH Logo" width="240"/>
+<img src="assets/hxh-barcode.jpg" alt="Barcode" width="240"/>
 
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+<table align="center">
+<tr><td align="center"><b>David J. Villegas S.</b></td></tr>
+<tr><td align="center"><sub>Region: Costa Rica</sub></td></tr>
+<tr><td align="center"><sub>Class: Full-Stack Engineer</sub></td></tr>
+<tr><td align="center"><sub>Experience: 3+ Years</sub></td></tr>
+<tr><td align="center"><sub>Status: ACTIVE</sub></td></tr>
+</table>
 
-Comprehensive incident tracking system with automatic assignment, SLA management, and real-time notifications.
-
-**Key Features:**
-- ✅ Role-based authentication
-- ✅ Automatic ticket assignment
-- ✅ SLA compliance tracking
-- ✅ Real-time reporting
-
-<a href="https://github.com/DavidSnake3/BearFix">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-</a>
+<sub><code>DV-3721-CR-2024</code></sub>
 
 </td>
-<td width="50%">
+<td valign="top">
 
-### 🚢 Sunrise Cruise
-**Travel Booking Platform**
+### ⚡ #DavidSnake3
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+Full-Stack Engineer con **3+ años** de experiencia construyendo aplicaciones web, automatizaciones y soluciones de datos.
 
-Complete cruise booking platform with payment processing and multi-language support.
+Especializado en **Microsoft Power Platform**, desarrollo **.NET / React**, análisis de datos con **Databricks & Azure Data Factory** y despliegue en **Azure**.
 
-**Key Features:**
-- ✅ End-to-end booking system
-- ✅ Secure payment processing
-- ✅ Multi-language support
-- ✅ Real-time availability
+> *"La perseverancia lo es todo."*  — Ging Freecss
 
-<a href="https://github.com/DavidSnake3/Sunrise">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-</a>
+<br/>
 
+<table>
+<tr>
+<td align="center" width="50%">
+  <sub><b>NEN TYPE</b></sub><br/>
+  <b>Conjurer ⚡</b>
+</td>
+<td align="center" width="50%">
+  <sub><b>REGION</b></sub><br/>
+  <b>Costa Rica 🇨🇷</b>
 </td>
 </tr>
-
 <tr>
-<td width="50%">
-
-### 🏋️ LAFIT
-**Fitness Courses Platform**
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
-Web platform for fitness courses with e-commerce, invoicing, and content management.
-
-**Key Features:**
-- ✅ Complete e-commerce system
-- ✅ PDF invoice generation
-- ✅ Integrated chatbot
-- ✅ Responsive design
-
-<a href="https://github.com/DavidSnake3/LatinAmericanFitnessInstitute">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-</a>
-
+<td align="center">
+  <sub><b>EXP</b></sub><br/>
+  <b>3+ Years</b>
 </td>
-<td width="50%">
+<td align="center">
+  <sub><b>STATUS</b></sub><br/>
+  <b>✅ ACTIVE</b>
+</td>
+</tr>
+</table>
 
-### 🎓 TechAcademy
-**Training & Certification System**
+<br/>
 
-<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/> <img src="https://img.shields.io/badge/Power_Platform-742774?style=flat-square&logo=powerapps&logoColor=white"/>
-
-Internal training system with dynamic courses, exams, and automated certification.
-
-**Key Features:**
-- ✅ Dynamic course creation
-- ✅ Automated certificates
-- ✅ Power Platform integration
-- ✅ Progress tracking
-
-<a href="https://github.com/DavidSnake3/TechsopAcademy">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-</a>
+<!-- GIFs Killua + Gon flanking -->
+<div align="center">
+  <img src="assets/Killua.gif" alt="Killua" height="120"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/Gon.gif" alt="Gon" height="120"/>
+  <br/>
+  <sub><b>KILLUA</b>&nbsp;&nbsp;×&nbsp;&nbsp;<b>GON</b></sub>
+</div>
 
 </td>
 </tr>
 </table>
 
+---
+
+## 🔥 NEN ABILITIES — Tech Stack
+
+#### Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+#### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+
+#### Microsoft Power Platform
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
+![Dataverse](https://img.shields.io/badge/Dataverse-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
+#### Cloud & DevOps
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+#### Data & Analytics
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Data Analyst](https://img.shields.io/badge/Data_Analyst-4ADE80?style=flat-square&logo=googleanalytics&logoColor=white)
+
+#### Testing & Methodologies
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-00E5FF?style=flat-square&logo=scrumalliance&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-7C3AED?style=flat-square&logo=agile&logoColor=white)
+
+---
+
+## 📊 HUNTER STATS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DavidSnake3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00e5ff&title_color=00e5ff&icon_color=7c3aed&text_color=b0b0d0&bg_color=07071a" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSnake3&layout=compact&langs_count=8&theme=tokyonight&border_color=00e5ff&title_color=00e5ff&text_color=b0b0d0&bg_color=07071a" alt="Top Languages" width="48%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=DavidSnake3&theme=tokyonight&border=00e5ff&ring=7c3aed&fire=00e5ff&currStreakLabel=00e5ff&background=07071a&dates=b0b0d0" alt="Streak Stats"/>
+
 </div>
 
 ---
 
 <div align="center">
-  
-  ## 💼 Professional Experience
-  
-</div>
 
-<details open>
-<summary><b>🏢 App Developer at TechShop</b> <i>(June 2024 - Present)</i></summary>
-<br>
+### *"I'M NOT HERE TO LOSE."*
+**— Killua Zoldyck**
 
-- 🚀 Developed Power Apps modules accelerating product delivery by **30%**
-- ⚡ Implemented automated flows with Power Automate for bonus payment processing
-- 📄 Automated PDF voucher generation and financial reports
-- 🔧 Refactored and optimized legacy code in Power Apps
-- 💡 Created low-code solutions reducing development time by **40%**
+<sub>▸ Hunter × Hunter  |  DavidSnake3  |  Costa Rica 🇨🇷</sub>
 
-</details>
+<br/>
 
-<details>
-<summary><b>📋 Administrative Assistant Intern at BN Vital</b> <i>(October 2022 - December 2022)</i></summary>
-<br>
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=DavidSnake3.DavidSnake3&left_color=07071a&right_color=7c3aed&left_text=HUNTERS%20VISITED)
 
-- 📁 Digitized and managed legal documentation
-- 📊 Created Excel database for tracking user requests
-- 💼 Executed administrative tasks using Microsoft Office suite
-- ⚡ Improved document retrieval time by implementing digital systems
-
-</details>
-
----
-
-<div align="center">
-  
-  ## 🎓 Education & Certifications
-  
-</div>
-
-### 📚 Education
-
-\`\`\`mermaid
-timeline
-    title Academic Journey
-    2023-Present : Software Engineering
-                 : Universidad Técnica Nacional
-    2022 : Executive Technician for Service Center
-         : CTP Rosario Naranjo
-\`\`\`
-
-### 🏆 Certifications
-
-<div align="center">
-
-| Certification | Issuer | Date |
-|:---|:---:|---:|
-| 🔍 Process Mining Celonis Foundations | Celonis | July 2024 |
-| 📊 Data Analytics Essentials | Cisco | July 2024 |
-| 🌐 Networking Basics | Cisco | March 2024 |
-| 🐍 Python Essentials 1 | Cisco | October 2023 |
-| 📈 Introduction to Data Science | Cisco | October 2023 |
-| 🔐 Professional Career in Cybersecurity | OEA | June 2024 |
-
-</div>
-
----
-
-<div align="center">
-  
-  ## 🌍 Languages
-  
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Spanish-Native-3B82F6?style=for-the-badge&logo=google-translate&logoColor=white" alt="Spanish"/>
-  <img src="https://img.shields.io/badge/English-B2_(Upper_Intermediate)-3B82F6?style=for-the-badge&logo=google-translate&logoColor=white" alt="English"/>
-</p>
-
----
-
-<div align="center">
-  
-  ## 📈 Contribution Activity
-  
-</div>
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/DavidSnake3/DavidSnake3/blob/output/github-contribution-grid-snake-dark.svg)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ## 📫 Let's Connect!
-  
-  <p>💡 I'm always open to discussing new opportunities, collaborations, or just chatting about technology!</p>
-  
-  <a href="https://www.linkedin.com/in/davidsnake-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:davidjosuevillegassalas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/DavidSnake3">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### 💭 Quote of the Day
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
-  
-</div>
-
----
-
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Made_with-❤️-red?style=for-the-badge" alt="Made with Love"/>
-    <img src="https://img.shields.io/badge/By-DavidSnake3-3B82F6?style=for-the-badge" alt="By DavidSnake3"/>
-  </p>
-  
-  **⭐️ If you like my work, consider giving a star to my repositories!**
-  
 </div>
