@@ -87,13 +87,18 @@ Throughout my academic and professional career, I have developed numerous projec
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DavidSnake3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00e5ff&title_color=00e5ff&icon_color=7c3aed&text_color=b0b0d0&bg_color=07071a" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSnake3&layout=compact&langs_count=8&theme=tokyonight&border_color=00e5ff&title_color=00e5ff&text_color=b0b0d0&bg_color=07071a" alt="Top Languages" width="48%"/>
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%" align="center" valign="top">
+<img src="https://github-readme-stats.vercel.app/api?username=DavidSnake3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&border_color=00e5ff&title_color=00e5ff&icon_color=7c3aed&text_color=b0b0d0&bg_color=07071a&card_width=480" alt="GitHub Stats" width="100%"/>
+</td>
+<td width="50%" align="center" valign="top">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSnake3&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_color=00e5ff&title_color=00e5ff&text_color=b0b0d0&bg_color=07071a&card_width=480" alt="Top Languages" width="100%"/>
+</td>
+</tr>
+</table>
 
-<br/>
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=DavidSnake3&theme=tokyonight&border=00e5ff&ring=7c3aed&fire=00e5ff&currStreakLabel=00e5ff&background=07071a&dates=b0b0d0" alt="Streak Stats"/>
+<img src="https://streak-stats.demolab.com?user=DavidSnake3&theme=tokyonight&border=00e5ff&ring=7c3aed&fire=00e5ff&currStreakLabel=00e5ff&background=07071a&dates=b0b0d0&card_width=900" alt="Streak Stats" width="100%"/>
 
 </div>
 
